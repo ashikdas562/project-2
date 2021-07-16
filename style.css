@@ -72,8 +72,9 @@ body{
     font-size: 16px;
     color: #562EFF;
 }
-/* courses style */
-}
+/*------------------
+ courses style
+ ---------------- */
 .course .course-banner img{
     width: 224px;
     height: 104px;
@@ -84,7 +85,7 @@ body{
     justify-content: space-between;
 }
 .fa-star{
-    font-size:12px ;
+    font-size: 12px;
 }
 .fa-star.filled{
     color: #FFC014;
@@ -94,7 +95,9 @@ body{
     color: #AEAEAE;
 }
 .course-duration{
-    background-color: rgba(199, 44, 44, 0.541);
-    border-radius: 5px;
+    background-color: rgba(255, 0, 0, 0.418);
+    border-radius: 10px;
     padding: 5px;
+    font-size: 15px;
+    color: rgba(255, 0, 0, 0.534);
 }
